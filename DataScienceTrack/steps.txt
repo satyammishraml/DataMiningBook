@@ -1,0 +1,3 @@
+  526  mkdir trash_programs
+  527  cp bokeh_programs/*.py trash_programs/
+  528  history | tail -n 3 > steps.txt

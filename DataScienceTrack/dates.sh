@@ -1,0 +1,1 @@
+head -n 3 data/Sales-3/*.csv | cut -d , -f 1 | sort
